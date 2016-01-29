@@ -1,0 +1,11 @@
+c:\users\rick\documents\visual studio 2015\Projects\paste.ee\paste.ee\bin\Debug\paste.ee.exe.config
+c:\users\rick\documents\visual studio 2015\Projects\paste.ee\paste.ee\bin\Debug\paste.ee.exe
+c:\users\rick\documents\visual studio 2015\Projects\paste.ee\paste.ee\bin\Debug\paste.ee.pdb
+c:\users\rick\documents\visual studio 2015\Projects\paste.ee\paste.ee\bin\Debug\paste.ee.xml
+c:\users\rick\documents\visual studio 2015\Projects\paste.ee\paste.ee\obj\Debug\paste.ee.vbprojResolveAssemblyReference.cache
+c:\users\rick\documents\visual studio 2015\Projects\paste.ee\paste.ee\obj\Debug\paste.ee.Form1.resources
+c:\users\rick\documents\visual studio 2015\Projects\paste.ee\paste.ee\obj\Debug\paste.ee.Resources.resources
+c:\users\rick\documents\visual studio 2015\Projects\paste.ee\paste.ee\obj\Debug\paste.ee.vbproj.GenerateResource.Cache
+c:\users\rick\documents\visual studio 2015\Projects\paste.ee\paste.ee\obj\Debug\paste.ee.exe
+c:\users\rick\documents\visual studio 2015\Projects\paste.ee\paste.ee\obj\Debug\paste.ee.xml
+c:\users\rick\documents\visual studio 2015\Projects\paste.ee\paste.ee\obj\Debug\paste.ee.pdb
