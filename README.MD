@@ -1,4 +1,4 @@
-﻿# Paste.ee Uploader written in VB.net
+# Paste.ee Uploader written in VB.net
 
 this program is licensed under [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/), be sure to point out original author(axzxc1236) if you use my code.
 
